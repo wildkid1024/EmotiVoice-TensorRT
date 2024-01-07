@@ -1,0 +1,4 @@
+*.pyc
+*.onnx
+*.trt
+*.wav
